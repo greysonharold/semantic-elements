@@ -1,12 +1,14 @@
-<html>
-
-<head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
     <title>Old Fashion Recipe</title>
-</head>
+    </head>
 
 <body>
     <header>
         <section>
+            <img src="Old-Fashioned-Recipe-5-1.jpg" alt="Old Fashion">
             <h2>Why an Old Fashion</h2>
             <p>An Old Fashion is considered one the first, if not the first cocktail. It is incredibly simple to make.</p>
         </section>
@@ -45,3 +47,4 @@
 </body>
 
 </html>
+
