@@ -1,1 +1,47 @@
+<html>
 
+<head>
+    <title>Old Fashion Recipe</title>
+</head>
+
+<body>
+    <header>
+        <section>
+            <h2>Why an Old Fashion</h2>
+            <p>An Old Fashion is considered one the first, if not the first cocktail. It is incredibly simple to make.</p>
+        </section>
+        <section>
+            <p>Traditionally, an Old Fashion is made with 3 key ingrediants; bourbon, simple Syrup and bitters.</p>
+            <p>The recipe below is designed to act as a guide, and not something to be followed prescriptively. Play with your
+                cocktail! Adjust the ingrediants or add new ones to compliment your taste.</p>
+        </section>
+    </header>
+    <article>
+        <section id="ingredients">
+            <h3>Ingredients</h3>
+            <ul>
+                <li><a href="https://www.buffalotracedistillery.com/our-brands/buffalo-trace.html">50 ml of Buffalo Trace Bourbon</a></li>
+                <li>12.5 ml of simple syrup</li>
+                <li>2 dashes of <a href="https://angosturabitters.com/portfolio/orange-bitters/">Orange Angostura Bitters</a></li>
+                <li>1 large ice cube</li>
+                <li>1 <a href="https://www.luxardo.it/liqueurs-and-distillates/original-maraschino-cherries/">Luxardo Cherry</a></li>
+                <li>1 <em>fresh</em> orange peele</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Instructions</h3>
+            <ul>
+                <li>Put your large ice cube in low ball glass</li>
+                <li>Measure out your spirits and pour directly into the glass</li>
+                <li>Add your bitters</li>
+                <li>Stir until chilled</li>
+                <li>Add your garnishes</li>
+                <li>Enjoy!</li>
+            </ul>
+        </section>
+    </article>
+    <footer><p>Government warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverage impairs your ability to drive a car or operate machinery, and may cause health problems. Drink responsibly.</p>
+    </footer>
+</body>
+
+</html>
